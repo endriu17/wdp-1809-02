@@ -9,7 +9,7 @@
 
 ## Demo
   
-  Aktualny stan projektu można obejrzeć tutaj:   [**PODGLĄD STRONY PROJEKTU**](https://endriu17.github.io/wdp-1809-02/)
+  Aktualny stan projektu można obejrzeć tutaj:   [**PODGLĄD STRONY PROJEKTU**](https://endriu17.github.io/wdp-1809-02/.)
   
 ## Inicjacja projektu
 
