@@ -9,7 +9,7 @@
 
 ## Demo
   
-  Aktualny stan projektu można obejrzeć tutaj:   [**PODGLĄD STRONY PROJEKTU**](https://dreamy-goldwater.netlify.com/)
+  Aktualny stan projektu można obejrzeć tutaj:   [**PODGLĄD STRONY PROJEKTU**](https://deploy-preview-51--dreamy-goldwater.netlify.com/)
   
 ## Inicjacja projektu
 
